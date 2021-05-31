@@ -1,0 +1,10 @@
+{
+  "name": "公考面试 API",
+  "description": "小程序 - 公务员面试",
+  "version": "0.0.1",
+  "title": "API 文档",
+  "url": "https://businessonwechat.com/mini-mianshi",
+  "order": [
+    "login"
+  ]
+}
